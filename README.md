@@ -13,6 +13,7 @@ Next.js app for running a Molkky tournament on four simultaneous fields.
 - Creates four semifinals from the top 16 players.
 - Creates a final from semifinal winners.
 - Saves locally, exports JSON, and syncs to Firestore when Firebase env vars are configured.
+- Uses Tailwind CSS 4 through `@tailwindcss/postcss`.
 
 ## Local development
 
